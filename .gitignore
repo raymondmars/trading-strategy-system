@@ -16,8 +16,6 @@
 *.ear
 
 build
-!web-front/wechat-guan-wang/build
-!web-front/crm-admin/build
 npm-debug.log
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
@@ -31,15 +29,12 @@ gradlew.bat
 huangtu_oa_backend.iml
 out/
 node_modules
-src/main/resources/static
-src/main/resources/templates
-src/main/resources/application.properties
 upload
 .vscode
 gradle/
 gradlew.bat
 gradlew
 out/
-huangtu_oa_backend.iml
-
-src/test/java/**
+orderfood.iml
+*.tar.gz
+target/
