@@ -1,0 +1,12 @@
+Fabric==1.13.2
+requests==2.12.4
+Flask==0.12
+pandas==0.19.2
+beautifulsoup4==4.6.0
+gunicorn==19.7.1
+simplejson==3.10.0
+easytrader==0.12.3
+pillow===4.2.1
+pytesseract===0.1.7
+
+#for linux : apt install tesseract-ocr

@@ -1,0 +1,15 @@
+/Users/Raymond/java/trade_system/src/main/java/com/trader/App.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/quotation/IQuotationProvider.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/entities/AccountBalance.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/strategy/schedules/StoneStrategy.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/deal/IDealProvider.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/common/AStockTradeUtility.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/deal/GFDealProvider.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/quotation/SinaQuoProvider.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/strategy/QuoteHelper.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/strategy/schedules/GoldenStrategy.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/annotations/Strategy.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/guice_modules/AStockModule.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/account/IAccount.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/strategy/StrategyBase.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/common/ITradeUtility.java
