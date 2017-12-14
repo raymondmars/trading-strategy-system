@@ -90,10 +90,5 @@
   </build>
 </project>
 
-        <!--mvn install:install-file -Dfile=/Users/Raymond/java/projects/tushare/target/tushare-1.0.0.jar \-->
-        <!-- -DgroupId=org.waditu \-->
-        <!-- -DartifactId=tushare \-->
-        <!-- -Dversion=1.0.0 \-->
-        <!-- -Dpackaging=jar \-->
-        <!-- -DlocalRepositoryPath=/Users/Raymond/.m2/repository-->
+
 
