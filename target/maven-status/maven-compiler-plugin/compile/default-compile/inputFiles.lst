@@ -8,8 +8,8 @@
 /Users/Raymond/java/trade_system/src/main/java/com/trader/quotation/SinaQuoProvider.java
 /Users/Raymond/java/trade_system/src/main/java/com/trader/strategy/QuoteHelper.java
 /Users/Raymond/java/trade_system/src/main/java/com/trader/strategy/schedules/GoldenStrategy.java
-/Users/Raymond/java/trade_system/src/main/java/com/trader/annotations/Strategy.java
 /Users/Raymond/java/trade_system/src/main/java/com/trader/guice_modules/AStockModule.java
+/Users/Raymond/java/trade_system/src/main/java/com/trader/annotations/Strategy.java
 /Users/Raymond/java/trade_system/src/main/java/com/trader/account/IAccount.java
 /Users/Raymond/java/trade_system/src/main/java/com/trader/strategy/StrategyBase.java
 /Users/Raymond/java/trade_system/src/main/java/com/trader/common/ITradeUtility.java
