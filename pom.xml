@@ -18,7 +18,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>23.0</version>
+      <version>30.1-jre</version>
     </dependency>
     <dependency>
       <groupId>com.google.inject</groupId>
@@ -33,7 +33,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.2.23</version>
+      <version>1.2.75</version>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
